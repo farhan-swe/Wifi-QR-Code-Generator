@@ -1,4 +1,4 @@
-# Wifi-QR-Code-Generator
+# Wifi-QR-Code-Generator 
 # 📶 Free WiFi QR Code Generator
 
 Easily generate a QR code for your WiFi network — just enter your **SSID** and **Password**, click **Generate**, and share the code with others for instant access! ⚡
